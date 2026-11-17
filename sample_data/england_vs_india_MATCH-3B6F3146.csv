@@ -1,0 +1,32 @@
+MATCH DETAILS
+Match ID,MATCH-3B6F3146
+Date,2026-11-16 22:40
+Team 1,england
+Team 2,india
+Allocated Overs,10
+Toss Winner,india
+Toss Decision,BOWL
+Status,INNINGS_1_IN_PROGRESS
+Result,In Progress
+Player of the Match,
+
+FIRST INNINGS - england vs india
+Total Score,5/0 in 0.1 overs
+Extras,0 (wd 0, nb 0, b 0, lb 0)
+
+BATTING SCORECARD
+Batsman,Dismissal,Runs,Balls,4s,6s,Strike Rate
+a,not out,5,1,0,0,500.00
+b,not out,0,0,0,0,0.00
+
+BOWLING SCORECARD
+Bowler,Overs,Maidens,Runs,Wickets,Economy
+f,0.1,0,5,0,30.00
+
+FALL OF WICKETS
+Wicket,Score,Dismissed Player,Over,Partnership Runs,Partnership Balls
+
+DELIVERY LOG
+Ball,Bowler,Striker,NonStriker,RunsBat,ExtraType,ExtraRuns,TotalRuns,Dismissal
+0.1,f,a,b,5,NONE,0,5,
+
